@@ -18,5 +18,6 @@
 ## networking  panel nic single command
      ncpa.cpl
     
-## 
+## unistall app
+    appwiz.cpl
      
