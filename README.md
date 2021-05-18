@@ -8,3 +8,15 @@
     dism  /online /Enable-Feature /FeatureName:TelnetClient
     
     
+## firewall panel open single commment
+    firewall.cpl
+   
+## user account panel open single commend
+    lusrmgr.msc
+    
+    
+## networking  panel nic single command
+     ncpa.cpl
+    
+## 
+     
