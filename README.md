@@ -21,3 +21,9 @@
 ## unistall app
     appwiz.cpl
      
+###  device  management 
+     devmgmt.msc
+     
+###  disk management
+      diskmgmt.msc
+      
