@@ -1,4 +1,6 @@
+
 # windowsadmin
+
 ------------------------------------------
 ##  Using powershell to enable the Telnet-client
      Install-WindowsFeature -name Telnet-Client
@@ -27,3 +29,4 @@
 ###  disk management
       diskmgmt.msc
       
+### usrcpl command 
