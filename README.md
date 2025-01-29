@@ -29,4 +29,5 @@
 ###  disk management
       diskmgmt.msc
       
-### usrcpl command 
+### computer management command 
+      compmgmt.msc
